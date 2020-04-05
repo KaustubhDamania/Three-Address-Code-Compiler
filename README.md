@@ -6,8 +6,8 @@ Before running this, ensure that prettytable module is installed or else you can
 pip install prettytable
 ```
 
-[Source code for while loop](For_Loop/for.py)<br>
-[Source code for for loop](While_Loop/while.py)
+[Source code for for loop](For_Loop/for.py)<br>
+[Source code for while loop](While_Loop/while.py)
 
 
 ### Output
