@@ -7,7 +7,8 @@ pip install prettytable
 ```
 
 [Source code for for loop](For_Loop/for.py)<br>
-[Source code for while loop](While_Loop/while.py)
+[Source code for while loop](While_Loop/while.py)<br>
+[Source code for if-else statement](If_Else/if.py)
 
 
 ### Output
