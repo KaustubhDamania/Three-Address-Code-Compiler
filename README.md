@@ -35,3 +35,15 @@ pip install prettytable
     </td>
 </tr>
 </table>
+
+
+#### While loop
+
+<img src="img/if_else.png">
+
+### Contributors
+- [@KaustubhDamania](https://github.com/KaustubhDamania)
+- [@GaurangAthavale](https://github.com/GaurangAthavale)
+- [@mihir2510](https://github.com/mihir2510)
+- [@g-bhagwanani](https://github.com/g-bhagwanani)
+
